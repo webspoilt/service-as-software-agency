@@ -47,3 +47,7 @@ graph LR
 
 ## 🤝 Contributing
 Issues and PRs focusing on extending LangGraph tools and third-party integrations are highly encouraged.
+
+## ?? Future Roadmap & Enhancements
+- **A/B Testing Simulator**
+- **Interactive Human-in-the-Loop dashboard**
